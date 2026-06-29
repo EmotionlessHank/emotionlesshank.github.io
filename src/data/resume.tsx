@@ -18,7 +18,7 @@ export const DATA = {
   description:
     "Full-Stack Engineer · Frontend-Primary — 5+ years · React / Next.js / TypeScript, with AI system integration & Go / Python backend.",
   summary:
-    "Full-stack engineer with 5+ years building high-performance production web products, primarily in React / Next.js / TypeScript. From DJI's company-wide DevOps platform serving 10,000+ employees, to owning a top-2 feature on GMGN's on-chain trading terminal, to building [OddFi](https://oddfi.io)'s React 19 prediction-market frontend end-to-end (0→1) — where I also helped build and integrate the product's AI agent system and took on part of the Go backend. Based in Melbourne with full Australian working rights · UNSW Master of IT (Distinction).",
+    "Full-stack engineer with 5+ years building high-performance production web products, primarily in React / Next.js / TypeScript. From [DJI](https://www.dji.com)'s company-wide DevOps platform serving 10,000+ employees, to owning a top-2 feature on [GMGN](https://gmgn.ai)'s on-chain trading terminal, to building [OddFi](https://oddfi.io)'s React 19 prediction-market frontend end-to-end (0→1) — where I also helped build and integrate the product's AI agent system and took on part of the Go backend. Based in Melbourne with full Australian working rights · UNSW Master of IT (Distinction).",
   avatarUrl: "/avatar.jpg",
   skills: [
     { name: "React", icon: ReactLight },
