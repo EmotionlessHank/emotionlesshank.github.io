@@ -1,0 +1,22 @@
+# ===== secrets / local config (never commit) =====
+.env
+.env.*
+*.local
+
+# ===== AI internal workflow (local only, kept out of the public showcase) =====
+.progress/
+.omc/
+.claude/
+bin/
+
+# ===== Node / Next.js =====
+node_modules/
+.next/
+out/
+dist/
+*.tsbuildinfo
+
+# ===== editor / OS =====
+.DS_Store
+.idea/
+.vscode/
