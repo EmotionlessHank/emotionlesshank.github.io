@@ -94,7 +94,7 @@ export const DATA = {
       badges: [],
       location: "Shenzhen",
       title: "Frontend / Engineering-Productivity Engineer",
-      logoUrl: "/logos/dji.png",
+      logoUrl: "/logos/dji-logo.png",
       start: "Mar 2022",
       end: "Mar 2025",
       description:
