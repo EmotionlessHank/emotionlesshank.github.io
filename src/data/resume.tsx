@@ -135,7 +135,7 @@ export const DATA = {
           icon: <Icons.globe className="size-3" />,
         },
       ],
-      image: "",
+      image: "/projects/shallowl.png",
       video: "",
     },
     {
@@ -153,7 +153,7 @@ export const DATA = {
           icon: <Icons.globe className="size-3" />,
         },
       ],
-      image: "",
+      image: "/projects/moat.png",
       video: "",
     },
     {
@@ -171,7 +171,7 @@ export const DATA = {
           icon: <Icons.globe className="size-3" />,
         },
       ],
-      image: "",
+      image: "/projects/invest-cockpit.png",
       video: "",
     },
     {
@@ -189,7 +189,7 @@ export const DATA = {
           icon: <Icons.github className="size-3" />,
         },
       ],
-      image: "",
+      image: "/projects/amazing-dev-skills.png",
       video: "",
     },
     {
@@ -207,7 +207,7 @@ export const DATA = {
           icon: <Icons.github className="size-3" />,
         },
       ],
-      image: "",
+      image: "/projects/context-scribe.png",
       video: "",
     },
   ],
