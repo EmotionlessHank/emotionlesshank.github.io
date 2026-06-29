@@ -114,7 +114,7 @@ export const DATA = {
       school: "Shenzhen University",
       href: "https://www.szu.edu.cn",
       degree: "Bachelor's Degree",
-      logoUrl: "/logos/szu.png",
+      logoUrl: "/logos/szu-crest.png",
       start: "",
       end: "",
     },
